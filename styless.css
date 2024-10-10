@@ -242,6 +242,7 @@ justify-content: center;
 .threeplans__plan {
     border: 2px solid grey;
     padding: 20px 30px;
+    border-radius: 8px;
 }
 
 .threeplans__container {
@@ -301,6 +302,7 @@ justify-content: center;
     background-color: rgb(100, 21, 255);
     color: #f7fafc;
     padding: 20px 30px;
+    border-radius: 8px;
 }
 
 .threeplans__buynowbtn {
